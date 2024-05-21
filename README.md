@@ -7,6 +7,6 @@
 - ⚡ Fun fact: I love travelling and bike rides, especially enjoying hot tea during rainy days.
 
 🚀 Skill Set
-- **Languages & Technologies**: HTML, CSS, JavaScript, SQL
+- **Languages & Technologies**: HTML, CSS, JavaScript, SQL ,PHP
 - **Tools & Frameworks**: Git, Figma, Tailwind CSS
   
