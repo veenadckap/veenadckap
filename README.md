@@ -6,7 +6,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love travelling and bike rides, especially enjoying hot tea during rainy days.
 
-<!---
-veenadckap/veenadckap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Skill Set
+- **Languages & Technologies**: HTML, CSS, JavaScript, SQL
+- **Tools & Frameworks**: Git, Figma, Tailwind CSS
+  
