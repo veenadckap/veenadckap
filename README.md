@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veenadckap&label=Profile%20views&color=0e75b6&style=flat" alt="veenadckap" /> </p>
 
-- 🌱 I’m currently learning **PHP, SQL, React js**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veenadckap" alt="veenadckap" /></a> </p>
+
+- 🌱 I’m currently learning **PHP,SQL, React js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/veenadckap](https://github.com/veenadckap)
 
-- 💬 Ask me about **HTML,CSS,JavaScript**
+- 💬 Ask me about **HTML , CSS and JavaScript**
 
 - 📫 How to reach me **veena.v.1405@gmail.com**
 
@@ -15,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/veena velmurugan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veena velmurugan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/veena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="veena" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/veena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="veena" height="30" width="40" /></a>
 </p>
@@ -25,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veenadckap&show_icons=true&locale=en&layout=compact" alt="veenadckap" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veenadckap&show_icons=true&locale=en" alt="veenadckap" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veenadckap&" alt="veenadckap" /></p>
