@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veenadckap&label=Profile%20views&color=0e75b6&style=flat" alt="veenadckap" /> </p>
 
-- 🌱 I’m currently learning **PHP, MySQL/SQL, React js**
+- 🌱 I’m currently learning **PHP, SQL, React js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/veenadckap](https://github.com/veenadckap)
 
